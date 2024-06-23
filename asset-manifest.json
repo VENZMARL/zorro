@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zorro/static/css/main.4a807e62.css",
+    "main.js": "/zorro/static/js/main.3d6d73e0.js",
+    "static/js/453.2838e13c.chunk.js": "/zorro/static/js/453.2838e13c.chunk.js",
+    "static/media/banner-10-Preview-1.jpg": "/zorro/static/media/banner-10-Preview-1.3a5f5a55b163795cefc6.jpg",
+    "index.html": "/zorro/index.html",
+    "main.4a807e62.css.map": "/zorro/static/css/main.4a807e62.css.map",
+    "main.3d6d73e0.js.map": "/zorro/static/js/main.3d6d73e0.js.map",
+    "453.2838e13c.chunk.js.map": "/zorro/static/js/453.2838e13c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a807e62.css",
+    "static/js/main.3d6d73e0.js"
+  ]
+}
